@@ -1,6 +1,6 @@
 ## Adresar
 
-Simple CRUD application using Context API.
+Simple CRUD application using Context.
 Create, update, delete and view details about contacts.
 
 # Setting up
